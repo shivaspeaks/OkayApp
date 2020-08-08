@@ -1,4 +1,4 @@
-# private_chat_app
+# OkayApp
 
 A new Flutter project.
 
